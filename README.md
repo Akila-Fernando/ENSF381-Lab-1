@@ -2,5 +2,5 @@
 ENSF 381 Lab 1
 
 Done by:
-  Akila Fernando
+  Akila Fernando &
   Tanvi Mahalwar
